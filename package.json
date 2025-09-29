@@ -1,7 +1,7 @@
 {
   "name": "node-api-tutorial",
   "version": "1.0.0",
-  "description": "Simple Node/Express API for CSC560 tutorial (in-memory).",
+  "description": "Simple Node/Express API for APIs class.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
